@@ -36,10 +36,10 @@
     <issueManagement>
         <url>http://sourceforge.net/tracker/?group_id=15494</url>
     </issueManagement>
-    <scm>
+    <!--<scm>
         <connection>scm:svn:https://jfreechart.svn.sourceforge.net/svnroot/jfreechart jfreechart</connection>
         <url>http://jfreechart.svn.sourceforge.net/viewvc/jfreechart/</url>
-    </scm>
+    </scm>-->
 
     <mailingLists>
         <mailingList>
